@@ -1,0 +1,21 @@
+# STM32CubeIDE build files
+/.settings/
+/Debug/
+/Release/
+/build/
+/target/
+
+# STM32CubeMX generated files
+/*.ioc
+/*_i2c.*.c
+/*_tim.*.c
+/*_usart.*.c
+/*_gpio.*.c
+/*_adc.*.c
+/*_dma.*.c
+/*_spi.*.c
+
+# CubeIDE project settings
+.cproject
+.project
+mxproject.db
